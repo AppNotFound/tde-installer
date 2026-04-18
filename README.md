@@ -22,7 +22,7 @@ A simple script to install a lightweight desktop environment in Termux with:
 ```bash
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/YOUR_USERNAME/tde-installer.git
+git clone https://github.com/AppNotFound/tde-installer.git
 cd tde-installer
 chmod +x install.sh
 ./install.sh
