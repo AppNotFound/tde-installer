@@ -5,7 +5,9 @@ A simple script to install a lightweight desktop environment in Termux with:
 - XFCE / LXDE / LXQT / i3 / IceWM
 - Termux X11 or VNC support
 - Minimal install using `--no-install-recommends`
+## 📸 Screenshot
 
+![Preview](Screenshot_20260419-122704.png)
 ---
 
 ## ⚡ Features
